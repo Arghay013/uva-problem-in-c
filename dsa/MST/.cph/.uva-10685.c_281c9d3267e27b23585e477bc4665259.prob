@@ -1,0 +1,1 @@
+{"name":"Local: uva-10685","url":"e:\\ALGORITHM_ERFAN-SIR\\dsa\\MST\\uva-10685.c","tests":[{"id":1714990057569,"input":"5 2\ncaterpillar\nbird\nhorse\nelefant\nherb\nherb caterpillar\ncaterpillar bird\n0 0","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\ALGORITHM_ERFAN-SIR\\dsa\\MST\\uva-10685.c","group":"local","local":true}
